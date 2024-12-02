@@ -25,4 +25,4 @@ Download doom WAD files from here:
 +map MAP03
 
 
-Place **xxxx.WAD** files here:  /Users/ddshenoy/Library/Application Support
+Place **xxxx.WAD** files here:  $HOME/Library/Application Support
