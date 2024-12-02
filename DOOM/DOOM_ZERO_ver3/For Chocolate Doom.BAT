@@ -1,0 +1,1 @@
+start chocolate-doom.exe -file DOOMZERO.wad -deh DOOMZERO.deh
